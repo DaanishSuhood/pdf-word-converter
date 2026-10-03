@@ -3,7 +3,7 @@
 Batch-converts between Word and PDF in both directions, using Microsoft Word over COM. Drop a mixed
 pile of files on the window and it works out which way each one needs to go.
 
-Script: [`PDFWordConverter.ahk`](PDFWordConverter.ahk)
+Script: [`pdf-word-converter.ahk`](pdf-word-converter.ahk)
 
 ---
 
@@ -16,7 +16,7 @@ Script: [`PDFWordConverter.ahk`](PDFWordConverter.ahk)
 
 ## Getting started
 
-1. Run `PDFWordConverter.ahk`.
+1. Run `pdf-word-converter.ahk`.
 2. Drag files onto the window, or click **Browse Files**.
 3. Optionally set the Word output format and an output folder.
 4. Click **Convert All**.
